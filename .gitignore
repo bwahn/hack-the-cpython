@@ -1,1 +1,7 @@
-/!_*
+*\.py[co]
+*~
+*\.orig
+*\#.*
+*@.*
+.DS_Store
+build
